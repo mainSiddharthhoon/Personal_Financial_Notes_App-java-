@@ -1,0 +1,2 @@
+demo,2023-06,Monthly Summary,220.50
+admin,2023-06,Monthly Summary,250.00

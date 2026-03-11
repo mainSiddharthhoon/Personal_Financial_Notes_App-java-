@@ -1,0 +1,11 @@
+demo,Groceries,200.00
+demo,Dining,100.00
+demo,Utilities,150.00
+admin,Office,100.00
+admin,Electronics,300.00admin,entertainment,25.0
+siddharth9125,Food,50.0
+admin,Food,50.0
+admin,Bills,100.0
+admin,Shopping,50.0
+darpan25,Food,10.0
+darpan25,Entertainment,50.0

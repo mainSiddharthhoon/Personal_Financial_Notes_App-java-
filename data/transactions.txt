@@ -1,0 +1,19 @@
+demo,2023-06-15,10:30,75.50,Grocery Shopping
+demo,2023-06-16,14:45,25.00,Restaurant
+demo,2023-06-18,09:15,120.00,Utilities
+admin,2023-06-14,08:30,50.00,Office Supplies
+admin,2023-06-17,16:20,200.00,Electronicsadmin,2025-10-28,20:58:17,25.0,Food
+admin,2025-10-28,21:11:38,25.0,Shopping
+admin,2025-10-28,21:14:32,25.0,Entertainment
+admin,2025-10-28,21:15:34,1.0,Entertainment
+siddharth9125,2025-10-28,23:50:58,100.0,Food
+siddharth9125,2025-10-28,23:51:30,1000.0,Food
+admin,2025-10-29,22:41:59,100.0,Food
+admin,2025-10-29,22:42:51,100.0,Food
+admin,2025-10-29,22:46:57,200.0,Bills
+admin,2025-10-29,22:53:51,100.0,Shopping
+admin,2025-11-24,09:30:55,25.0,Food
+admin,2025-11-24,09:31:44,25.0,Food
+darpan25,2025-11-24,09:34:25,5.0,Transportation
+darpan25,2025-11-24,09:35:02,20.0,Food
+darpan25,2025-11-28,10:36:59,100.0,Entertainment
